@@ -1,41 +1,55 @@
-# 🚴‍♂️ Global Bike Sales Power BI Dashboard
+# 📊 Power BI Retail Analysis – Lab Report
 
-## 📌 Project Overview
-This project presents a data-driven analysis of global bike and bike parts sales using Power BI. The dashboard provides intuitive visualizations to help businesses assess product performance, geographic distribution of revenue, and customer purchasing trends.
+Welcome to my Power BI Lab Report project, where I apply advanced data analytics techniques to a retail dataset. This project demonstrates my ability to clean, model, visualize, and communicate insights using Power BI — a key skill set for any data-driven role.
 
-## 🎯 Purpose
-The primary goal of this dashboard is to enable stakeholders—especially in retail, supply chain, and marketing—to:
-- Identify top-selling product categories
-- Monitor geographic sales performance
-- Optimize inventory and marketing strategies based on data insights
+---
 
-## 📊 Dashboard Highlights
+## 🧠 Project Objective
 
-### 1. Revenue by Category
-- **Mountain Bikes** and **Road Bikes** dominate in revenue generation.
-- **Frames** (both mountain and road) also show significant financial contribution.
-- High-revenue items indicate strong demand and premium pricing opportunities.
+The goal of this lab was to analyze retail sales data using Microsoft Power BI to:
+- Identify patterns in product performance
+- Understand customer demographics and behavior
+- Monitor revenue trends across time
+- Create an interactive and professional dashboard for stakeholders
 
-### 2. Quantity Sold by Category
-- **Touring Bikes** have the highest unit sales, suggesting affordability and mass-market appeal.
-- Apparel items such as **Jerseys**, **Gloves**, and **Socks** appear frequently, highlighting complementary sales opportunities.
-- This chart aids in aligning product availability with customer preferences.
+---
 
-### 3. Geographic Revenue Distribution
-- Sales are concentrated in **North America and Europe**.
-- Visual map reveals city-level insights, supporting targeted regional campaigns and localized logistics planning.
+## 📈 Key Insights
 
-## 💡 Key Insights
-- **Product Strategy**: Focus on high-performing categories such as Mountain and Road Bikes; invest in frames and touring models for quantity-led growth.
-- **Geographic Focus**: Strengthen distribution networks in Europe and North America, explore emerging markets based on sales gaps.
-- **Inventory Management**: Align stock with demand trends shown in quantity vs. revenue charts.
+> *(Note: These are representative examples. Update with actual metrics from your Power BI report if needed.)*
+
+- **Top-Performing Category**: Electronics contributed over 30% of total sales revenue.
+- **Revenue Trends**: Significant spike in sales during Q4, suggesting strong seasonal impact.
+- **Customer Demographics**: Majority of sales came from customers aged 25–40.
+- **Product Performance**: Clothing had high unit sales but lower revenue per unit, suggesting volume-driven performance.
+
+---
 
 ## 🛠️ Tools & Technologies Used
-- **Power BI**: For data modeling, DAX calculations, and dashboard visualization.
-- **Data Sources**: Adventure Works Sales Data.
 
-## 📈 Value to Employers
-This dashboard showcases strong analytical skills, business
+- **Power BI Desktop** – for building the data model and interactive visualizations
+- **DAX (Data Analysis Expressions)** – to create custom measures and KPIs
+- **Power Query (M Language)** – for data transformation and cleansing
+- **Excel / CSV Integration** – for importing and shaping raw data
+
+---
+
+## 🧪 Skills Demonstrated
+
+- ✅ **Data Cleaning**: Removed duplicates, handled missing values, standardized field types  
+- ✅ **Data Modeling**: Built relationships across tables, created calculated columns and measures  
+- ✅ **DAX Formulas**: Designed KPIs such as total revenue, average order value, YoY growth  
+- ✅ **Interactive Dashboards**: Used slicers, filters, and bookmarks for user-friendly exploration  
+- ✅ **Storytelling with Data**: Translated complex data into actionable business insights
+
+---
+
+## 📁 File Structure
+
+```bash
+├── Lab 3 Report (2).pbix     # Power BI file containing full report and dashboard
+├── README.md                 # This documentation file
+
 
 ![image](https://github.com/user-attachments/assets/cadb2634-273c-4c3a-925d-d5eecec67b75)
 
