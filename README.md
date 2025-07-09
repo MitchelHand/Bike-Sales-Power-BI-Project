@@ -36,3 +36,6 @@ The primary goal of this dashboard is to enable stakeholders—especially in ret
 
 ## 📈 Value to Employers
 This dashboard showcases strong analytical skills, business
+
+![image](https://github.com/user-attachments/assets/cadb2634-273c-4c3a-925d-d5eecec67b75)
+
